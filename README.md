@@ -76,7 +76,7 @@ Monthly Revenue: Bar charts for month-wise revenue performance.
 
 Customer Preferences: Pie charts for size-based sales distribution.
 
-Insights Gained
+## Insights Gained
 
 Peak Sales Hours: Most transactions occur between 8 AM and 10 AM.
 
