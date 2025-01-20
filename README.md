@@ -8,11 +8,11 @@ This project showcases an interactive Coffee Sales Dashboard designed to visuali
 
 ### Sales Performance Overview:
 
-Total Revenue: $698.50K
+•	Total Revenue: $698.50K
 
-Total Quantity Sold: 149.12K units
+•	Total Quantity Sold: 149.12K units
 
-Average Item Price: $3.34
+•	Average Item Price: $3.34
 
 ### Product Analysis:
 
