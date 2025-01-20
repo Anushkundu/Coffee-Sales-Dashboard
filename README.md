@@ -14,7 +14,7 @@ Total Quantity Sold: 149.12K units
 
 Average Item Price: $3.34
 
-Product Analysis:
+### Product Analysis:
 
 Top-performing categories: Coffee, Coffee Beans, and Branded Products.
 
