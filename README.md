@@ -16,9 +16,9 @@ This project showcases an interactive Coffee Sales Dashboard designed to visuali
 
 ### Product Analysis:
 
-Top-performing categories: Coffee, Coffee Beans, and Branded Products.
+•	Top-performing categories: Coffee, Coffee Beans, and Branded Products.
 
-Visualizations for revenue by product and sales trends.
+•	Visualizations for revenue by product and sales trends.
 
 ## Time-Based Insights:
 
