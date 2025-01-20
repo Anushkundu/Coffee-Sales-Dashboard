@@ -32,7 +32,7 @@ This project showcases an interactive Coffee Sales Dashboard designed to visuali
 
 •	Store-specific performance for Lower Manhattan, Astoria, and Hell’s Kitchen.
 
-### Project Structure
+## Project Structure
 
 The repository includes the following:
 
@@ -44,7 +44,7 @@ Documentation: Guides on how to use and customize the dashboard.
 
 Setup and Usage
 
-### Requirements:
+## Requirements:
 
 Power BI Desktop installed.
 
@@ -58,7 +58,7 @@ Load the sample dataset provided.
 
 Explore the dashboard to view sales trends, analyze performance, and gain actionable insights.
 
-### Customization:
+## Customization:
 
 Replace the sample dataset with your own coffee sales data.
 
