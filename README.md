@@ -20,19 +20,19 @@ This project showcases an interactive Coffee Sales Dashboard designed to visuali
 
 •	Visualizations for revenue by product and sales trends.
 
-## Time-Based Insights:
+### Time-Based Insights:
 
 •	Hourly transaction trends highlighting peak sales hours (8 AM - 10 AM).
 
 •	Monthly revenue performance showcasing high-demand periods (June and May).
 
-Customer Preferences:
+### Customer Preferences:
 
 •	Breakdown of quantity sold by size (Regular, Large, Small).
 
 •	Store-specific performance for Lower Manhattan, Astoria, and Hell’s Kitchen.
 
-## Project Structure
+### Project Structure
 
 The repository includes the following:
 
@@ -44,7 +44,7 @@ Documentation: Guides on how to use and customize the dashboard.
 
 Setup and Usage
 
-## Requirements:
+### Requirements:
 
 Power BI Desktop installed.
 
@@ -58,7 +58,7 @@ Load the sample dataset provided.
 
 Explore the dashboard to view sales trends, analyze performance, and gain actionable insights.
 
-## Customization:
+### Customization:
 
 Replace the sample dataset with your own coffee sales data.
 
