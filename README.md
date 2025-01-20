@@ -22,15 +22,15 @@ This project showcases an interactive Coffee Sales Dashboard designed to visuali
 
 ## Time-Based Insights:
 
-Hourly transaction trends highlighting peak sales hours (8 AM - 10 AM).
+•	Hourly transaction trends highlighting peak sales hours (8 AM - 10 AM).
 
-Monthly revenue performance showcasing high-demand periods (June and May).
+•	Monthly revenue performance showcasing high-demand periods (June and May).
 
 Customer Preferences:
 
-Breakdown of quantity sold by size (Regular, Large, Small).
+•	Breakdown of quantity sold by size (Regular, Large, Small).
 
-Store-specific performance for Lower Manhattan, Astoria, and Hell’s Kitchen.
+•	Store-specific performance for Lower Manhattan, Astoria, and Hell’s Kitchen.
 
 ## Project Structure
 
