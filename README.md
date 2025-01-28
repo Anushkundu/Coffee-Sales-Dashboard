@@ -50,7 +50,7 @@ Power BI Desktop installed.
 
 Sample data (provided in the repository).
 
-Steps to Use:
+## Steps to Use:
 
 Download and open the .pbix file in Power BI Desktop.
 
