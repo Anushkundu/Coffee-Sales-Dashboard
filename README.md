@@ -36,7 +36,7 @@ This project showcases an interactive Coffee Sales Dashboard designed to visuali
 
 The repository includes the following:
 
-Dashboard File: .pbix file for the Power BI dashboard.
+Dashboard File: csv file for the Power BI dashboard.
 
 Dataset: Sample sales data used for analysis.
 
